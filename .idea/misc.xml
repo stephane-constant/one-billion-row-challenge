@@ -1,0 +1,5 @@
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="Elixir 1.15.7-otp-24" project-jdk-type="Elixir SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

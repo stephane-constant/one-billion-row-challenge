@@ -1,0 +1,10 @@
+Tokyo;35.6897
+Jakarta;-6.1750
+Delhi;28.6100
+Guangzhou;23.1300
+Tokyo;19.0761
+Manila;14.5958
+Delhi;31.1667
+São Paulo;-23.5500
+Seoul;37.5600
+Mexico City;19.4333
